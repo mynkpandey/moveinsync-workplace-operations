@@ -24,6 +24,6 @@ python -m streamlit run app.py
 ## Deploy
 Push `app.py`, `requirements.txt` and `README.md` to a GitHub repository, then deploy `app.py` using Streamlit Community Cloud.
 
-Suggested repository name: `moveinsync-workplace-operations-dashboard`
+Suggested repository name: `moveinsync-workplace-operations`
 
 This is an independent demonstration project and is not affiliated with or endorsed by MoveInSync.
